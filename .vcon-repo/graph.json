@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "docs",
+  "repo_version": null,
+  "archetype": "fork",
+  "generated_at": "2026-04-16T15:15:44.246309+00:00",
+  "stats": {
+    "node_count": 6,
+    "edge_count": 0
+  },
+  "nodes": [
+    {
+      "id": "document:readme",
+      "type": "document",
+      "name": "README",
+      "file": "README.md"
+    },
+    {
+      "id": "component:api-reference",
+      "type": "component",
+      "name": "api-reference",
+      "file": "api-reference",
+      "description": "5 files"
+    },
+    {
+      "id": "component:essentials",
+      "type": "component",
+      "name": "essentials",
+      "file": "essentials",
+      "description": "6 files"
+    },
+    {
+      "id": "component:images",
+      "type": "component",
+      "name": "images",
+      "file": "images",
+      "description": "3 files"
+    },
+    {
+      "id": "component:logo",
+      "type": "component",
+      "name": "logo",
+      "file": "logo",
+      "description": "2 files"
+    },
+    {
+      "id": "component:snippets",
+      "type": "component",
+      "name": "snippets",
+      "file": "snippets",
+      "description": "1 files"
+    }
+  ],
+  "edges": [],
+  "subsystems": []
+}
